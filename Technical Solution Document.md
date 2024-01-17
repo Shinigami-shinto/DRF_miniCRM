@@ -1,5 +1,5 @@
 # Technical Solution Document
-The goal is to integrate my mini CRM with two existing applications used for OTA's sales and ﬁnance process.
+The goal is to integrate my mini CRM with two existing applications.
 
 Both applications integrate with REST API's.
 
